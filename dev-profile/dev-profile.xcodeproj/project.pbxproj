@@ -35,6 +35,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5AB6CA4620C082C600D5F76C /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
 		5AFF02FC20BF847B000C6202 = {
 			isa = PBXGroup;
 			children = (
@@ -54,6 +61,7 @@
 		5AFF030720BF847B000C6202 /* dev-profile */ = {
 			isa = PBXGroup;
 			children = (
+				5AB6CA4620C082C600D5F76C /* view */,
 				5AFF030820BF847B000C6202 /* AppDelegate.swift */,
 				5AFF030A20BF847B000C6202 /* ViewController.swift */,
 				5AFF030C20BF847B000C6202 /* Main.storyboard */,
